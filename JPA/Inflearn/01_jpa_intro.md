@@ -45,7 +45,7 @@
             ```
             
             <br>
-            
+
       2. 기획자가 전화번호 필드를 추가해 달라고 한 상황
             
             ```java
@@ -83,7 +83,7 @@
 <br>
 
 **객체를 관계형 데이터베이스에 저장**
-[!사진]
+![picture1](https://github.com/JaeYeon33/TIL/blob/main/JPA/Inflearn/img/Untitled.png?raw=true)
 
 - 객체를 SQL로 변환해서 RDB에 저장하는 변환과정을 개발자가 해야 한다.
 
@@ -98,7 +98,7 @@
 ## 객체와 관계형 데이터베이스의 차이
 
 ### 1. 상속
-[!사진]
+![picture2](https://github.com/JaeYeon33/TIL/blob/main/JPA/Inflearn/img/Untitled1.png?raw=true)
 
 - 객체의 상속관계와 유사한 관계형 데이터베이스의 개념으로 Table 슈퍼타입, 서브타입 관계가 있다.
 - 객체 상속 관계에서는 그저 `extends` 나 `implements` 로 상속 관계를 맺고 캐스팅도 자유롭다.
@@ -119,7 +119,7 @@
 
 ### 2. 연관관계
 
-[!사진]
+![picture3](https://github.com/JaeYeon33/TIL/blob/main/JPA/Inflearn/img/Untitled2.png?raw=true)
 
 
 - 객체를 **참조**를 사용한다 : member.getTeam();
@@ -196,13 +196,15 @@ INSERT INTO TEAM(TEAM_ID, NAME) VALUES...
     }
     ```
 
-    - 객체 그래프 탐색
-    
-        : 객체는 자유롭게 객체 그래프를 탐색할 수 있어야 한다. (ex : memer.getXXX())
+    <br>
 
-    [!사진]
+- 객체 그래프 탐색
+  
+    : 객체는 자유롭게 객체 그래프를 탐색할 수 있어야 한다. (ex : memer.getXXX())
 
-    `Member` 객체에서 엔티티 그래프를 통해 `Category` 까지도 접근이 가능해야 한다.
+    ![picture4](https://github.com/JaeYeon33/TIL/blob/main/JPA/Inflearn/img/Untitled3.png?raw=true)
+
+- `Member` 객체에서 엔티티 그래프를 통해 `Category` 까지도 접근이 가능해야 한다.
 
 
     <br>
@@ -240,6 +242,8 @@ INSERT INTO TEAM(TEAM_ID, NAME) VALUES...
 
 
     <br>
+
+    그렇다고 모든 객체를 로딩할 수는 없다.
 
     - 상황에 따라 동일한 회원 조회 메서드를 여러개 생성
         ```java
