@@ -134,15 +134,15 @@
 ❗객체를 테이블에 맞춰 모델링하게 된다.
 
 ```java
-class Member{
-		String id;        //MEMBER_ID 컬럼 사용
-		Long teamId;      //참조로 연관관계를 맺는다.
-		String username;  // USERNAME 컬럼 사용
+class Member {
+    String id;        //MEMBER_ID 컬럼 사용
+    Long teamId;      //참조로 연관관계를 맺는다.
+    String username;  // USERNAME 컬럼 사용
 }
 
-class Team{
-		Long id;      //TEAM_ID 컬럼 사용
-		String name;  //NAME 컬럼 사용
+class Team {
+    Long id;      //TEAM_ID 컬럼 사용
+    String name;  //NAME 컬럼 사용
 }
 
 /*쿼리*/
@@ -184,15 +184,15 @@ INSERT INTO TEAM(TEAM_ID, NAME) VALUES...
       JOIN TEAM T ON M.TEAM_ID = T.TEAM_ID
     
     public Member find(String memberId){
-    		//SQL 실행
-    		Member member = new Member();
-    
-    		//데이터터베이스에서 조회한 회원 관련 정보를 모두 입력
-    		Team team = new Team();
-    
-    		//회원과 팀 관계 설정
-    		member.setTeam(team);
-    		return member;
+            //SQL 실행
+            Member member = new Member();
+
+            //데이터터베이스에서 조회한 회원 관련 정보를 모두 입력
+            Team team = new Team();
+
+            //회원과 팀 관계 설정
+            member.setTeam(team);
+            return member;
     }
     ```
 
@@ -277,10 +277,10 @@ member1 == member2; // false 다르다
 
 class MemberDAO{
     public Member getMember(String memberId){
-            String sql = "SELECT * FROM MEMBER WHERE MEMBER_ID = ?";
-            ...
-            //JDBC API, SQL 실행
-            return new Member(...);
+        String sql = "SELECT * FROM MEMBER WHERE MEMBER_ID = ?";
+        ...
+        //JDBC API, SQL 실행
+        return new Member(...);
     }
 }
 ```
