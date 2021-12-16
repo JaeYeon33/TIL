@@ -226,13 +226,13 @@ INSERT INTO TEAM(TEAM_ID, NAME) VALUES...
     엔티티 신뢰문제가 발생한다.
 
     ```java
-        class MemberService{
-            ...
-            public void process(){
-                    Member member = memberDao.find(memberId);
-                    member.getTeam(); //????
-                    member.getOrder().getDelivery(); //????
-            }
+    class MemberService {
+        ...
+        public void process(){
+                Member member = memberDao.find(memberId);
+                member.getTeam(); //????
+                member.getOrder().getDelivery(); //????
+        }
     }
     ```
 
