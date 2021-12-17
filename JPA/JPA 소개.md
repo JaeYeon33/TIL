@@ -1,17 +1,3 @@
----
-title: "JPA 시작하기"
-excerpt: "자바 ORM JPA를 처음 시작하기전에 앞서."
-
-categories:
-  - JPA
-tags:
-  - [JPA, Hibernate]
-
-date: 2021-12-16
-last_modified_at: 2021-12-17
----
-
-
 ## JPA 소개
 
 ---
