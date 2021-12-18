@@ -13,6 +13,11 @@
 - [[Spring Data JPA] 공통 인터페이스 기능](https://github.com/JaeYeon33/TIL/blob/main/JPA/공통%20인터페이스%20기능.md)
 - [[Spring Data JPA] 쿼리 메소드 기능](https://github.com/JaeYeon33/TIL/blob/main/JPA/쿼리%20메소드%20기능.md)
 - [[Spring Data JPA] 확장 기능](https://github.com/JaeYeon33/TIL/blob/main/JPA/확장%20기능.md)
+- [[QueryDSL] 기본 문법](https://github.com/JaeYeon33/TIL/blob/main/JPA/기본%20문법.md)
+- [[QueryDSL] 중급 문법](https://github.com/JaeYeon33/TIL/blob/main/JPA/중급%20문법.md)
+- [[QueryDSL] 순수 JPA와 QueryDSL](https://github.com/JaeYeon33/TIL/blob/main/JPA/순수%20JPA와%20QueryDSL.md)
+- [[QueryDSL] Spring Data JPA와 QueryDSL](https://github.com/JaeYeon33/TIL/blob/main/JPA/스프링%20데이터%20JPA와%20QueryDSL.md)
+- [[QueryDSL] Spring Data JPA가 제공하는 QueryDSL 기능](https://github.com/JaeYeon33/TIL/blob/main/JPA/스프링%20데이터%20JPA가%20제공하는%20QueryDSL%20기능.md)
 
 ## Java
 
