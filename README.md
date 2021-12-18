@@ -10,8 +10,9 @@
 - [값 타입](https://github.com/JaeYeon33/TIL/blob/main/JPA/%EA%B0%92%20%ED%83%80%EC%9E%85.md)
 - [객체지향 쿼리 언어1 - 기본 문법](https://github.com/JaeYeon33/TIL/blob/main/JPA/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%20%EC%BF%BC%EB%A6%AC%20%EC%96%B8%EC%96%B41%20-%20%EA%B8%B0%EB%B3%B8%20%EB%AC%B8%EB%B2%95.md)
 - [객체지향 쿼리 언어2 - 중급 문법](https://github.com/JaeYeon33/TIL/blob/main/JPA/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%20%EC%BF%BC%EB%A6%AC%20%EC%96%B8%EC%96%B42%20-%20%EC%A4%91%EA%B8%89%20%EB%AC%B8%EB%B2%95.md)
-- [Spring Data JPA] 공통 인터페이스 기능
-- [Spring Data JPA] 쿼리 메소드 기능
+- [[Spring Data JPA] 공통 인터페이스 기능](https://github.com/JaeYeon33/TIL/blob/main/JPA/공통%20인터페이스%20기능.md)
+- [[Spring Data JPA] 쿼리 메소드 기능](https://github.com/JaeYeon33/TIL/blob/main/JPA/쿼리%20메소드%20기능.md)
+- [[Spring Data JPA] 확장 기능](https://github.com/JaeYeon33/TIL/blob/main/JPA/확장%20기능.md)
 
 ## Java
 
