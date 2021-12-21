@@ -32,7 +32,8 @@
 - [[Java의 정석] 예외처리](https://github.com/JaeYeon33/TIL/blob/main/JAVA/예외처리.md)
 - [[Java의 정석] java.lang패키지와 클래스](https://github.com/JaeYeon33/TIL/blob/main/JAVA/java%20lang패키지와%20유용한%20클래스.md)
 - [[Java의 정석] 날짜와 시간 & 형식화](https://github.com/JaeYeon33/TIL/blob/main/JAVA/날짜와%20시간.md)
-- [Java의 정석] 컬렉션 프레임워크
+- [[Java의 정석] 컬렉션 프레임워크](https://github.com/JaeYeon33/TIL/blob/main/JAVA/컬렉션%20프레임워크.md)
+- [[Java의 정석] 지네릭스, 열거형, 애너테이션](https://github.com/JaeYeon33/TIL/blob/main/JAVA/지네릭스%2C%20열거형%2C%20애너테이션.md)
 
 <br>
 
