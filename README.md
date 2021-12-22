@@ -26,7 +26,7 @@
 - [[Java의 정석] 변수](https://github.com/JaeYeon33/TIL/blob/main/JAVA/변수.md)
 - [[Java의 정석] 연산자](https://github.com/JaeYeon33/TIL/blob/main/JAVA/연산자.md)
 - [[Java의 정석] 조건문과 반복문](https://github.com/JaeYeon33/TIL/blob/main/JAVA/조건문과%20반복문.md)
-- [[Java의 정석]배열](https://github.com/JaeYeon33/TIL/blob/main/JAVA/배열%20(Array).md)
+- [[Java의 정석] 배열](https://github.com/JaeYeon33/TIL/blob/main/JAVA/배열%20(Array).md)
 - [[Java의 정석] 객체지향 프로그래밍 - 1](https://github.com/JaeYeon33/TIL/blob/main/JAVA/객체지향%20프로그래밍%201.md)
 - [[Java의 정석] 객체지향 프로그래밍 - 2](https://github.com/JaeYeon33/TIL/blob/main/JAVA/객체지향%20프로그래밍%202.md)
 - [[Java의 정석] 예외처리](https://github.com/JaeYeon33/TIL/blob/main/JAVA/예외처리.md)
@@ -34,6 +34,7 @@
 - [[Java의 정석] 날짜와 시간 & 형식화](https://github.com/JaeYeon33/TIL/blob/main/JAVA/날짜와%20시간.md)
 - [[Java의 정석] 컬렉션 프레임워크](https://github.com/JaeYeon33/TIL/blob/main/JAVA/컬렉션%20프레임워크.md)
 - [[Java의 정석] 지네릭스, 열거형, 애너테이션](https://github.com/JaeYeon33/TIL/blob/main/JAVA/지네릭스%2C%20열거형%2C%20애너테이션.md)
+- [[Java의 정석] 쓰레드 (Thread)](https://github.com/JaeYeon33/TIL/blob/main/JAVA/쓰레드%20Thread.md)
 
 <br>
 
