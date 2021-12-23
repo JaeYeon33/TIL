@@ -35,6 +35,7 @@
 - [[Java의 정석] 컬렉션 프레임워크](https://github.com/JaeYeon33/TIL/blob/main/JAVA/컬렉션%20프레임워크.md)
 - [[Java의 정석] 지네릭스, 열거형, 애너테이션](https://github.com/JaeYeon33/TIL/blob/main/JAVA/지네릭스%2C%20열거형%2C%20애너테이션.md)
 - [[Java의 정석] 쓰레드 (Thread)](https://github.com/JaeYeon33/TIL/blob/main/JAVA/쓰레드%20Thread.md)
+- [[Java의 정석] 람다와 스트림](https://github.com/JaeYeon33/TIL/blob/main/JAVA/람다와%20스트림.md)
 
 <br>
 
